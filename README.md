@@ -23,3 +23,4 @@ Looking forward to working on more real-world data projects! Let’s connect and
 
 #powerbi #dataanalytics #datavisualization #businessintelligence #dashboard #analytics   #OLABookings 
 Regards Ola Electric
+![Home](https://github.com/user-attachments/assets/af5e28a2-9ec9-43a7-a790-76f66b9e6af8)
